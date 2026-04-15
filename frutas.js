@@ -1,4 +1,4 @@
-/Lista ordenada de valores
+//Lista ordenada de valores
 const frutas = ["Maçã", "Banana", "Uva", "Mirtilo"];
 //Indice =        0        1         2      4
 
