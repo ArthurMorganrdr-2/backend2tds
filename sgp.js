@@ -24,7 +24,7 @@ function atualizarInventario(inventarioAtual, acao, nomeDoItem){
         const inventarioComItemNovo = [inventarioAtual + nomeDoItem];
         novoInventario = inventarioComItemNovo;
     } else if (acao === "descartar")
-}
+};
 
 const pontosDoJogador = [100, 50, 200, 10]
 console.log(pontosDoJogador);       
