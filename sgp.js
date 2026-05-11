@@ -46,7 +46,9 @@ const missoes =[
 
 const concluias = filtrarMissoesConcluidas(missoes)
 console.log("Missões concluídas", concluias);
+
+const mochila = ["Mapa","Lanterna"];
 const mochilaAtualizada = atualizarInventario(mochila, "pegar", "Bússola");
-console.log("Mochila após pegar: ", mochilaAtualizada)
+console.log("Mochila após pegar: ", mochilaAtualizada);
 
 
