@@ -14,3 +14,6 @@ let inimigo = 19;
 let derrotar = balas - inimigo;
 
 console.log(`Sobrou ${derrotar}`);
+
+let ponto1 = 300;
+let ponto2 = 500;
