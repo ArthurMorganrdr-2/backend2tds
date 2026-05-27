@@ -13,7 +13,15 @@ let inimigo = 19;
 
 let derrotar = balas - inimigo;
 
-console.log(`Sobrou ${derrotar}`);
+console.log(`${nomeJogador} enfrentou ${inimigo} inimigos e sobraram ${derrotar} balas`);
 
 let ponto1 = 300;
 let ponto2 = 500;
+let totalPontos = ponto1 + ponto2;
+console.log(`Você tem ${totalPontos} pontos`); 
+
+function verificarPontos(totalPontos) {
+    if 
+}
+
+let nivel = 9;
