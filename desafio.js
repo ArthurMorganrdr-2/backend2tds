@@ -21,9 +21,10 @@ let totalPontos = ponto1 + ponto2;
 console.log(`Você tem ${totalPontos} pontos`); 
 
 function verificarPontos(totalPontos) {
-    if ( > 1.000){
+    if (totalPontos > 1000){
         return "Você subiu de nível"
     }
+    
 }
 
 let nivel = 9;
